@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Youtube" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red2</item>
+        <item name="colorAccent">@color/red2</item>
+        <item name="android:colorBackground">@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
